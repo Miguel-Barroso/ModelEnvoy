@@ -9,6 +9,8 @@ dist/
 build/
 .serena/
 .idea/
+.claude/
+.tokensave/
 *.log
 .coverage
 coverage.xml
