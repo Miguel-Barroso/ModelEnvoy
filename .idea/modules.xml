@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/deepseek-consult.iml" filepath="$PROJECT_DIR$/.idea/deepseek-consult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/model_envoy.iml" filepath="$PROJECT_DIR$/.idea/model_envoy.iml" />
     </modules>
   </component>
 </project>
